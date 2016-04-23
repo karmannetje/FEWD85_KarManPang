@@ -1,5 +1,5 @@
 body {
-  background-color: #d0e4fe;
+  background: #FFE;
   margin: 0;
   border: 3px solid black;
   padding: 30px;
@@ -23,7 +23,7 @@ h4 {
 }
 
 a {
-  color: #700;
+  color: #900;
 }
 
 img {
